@@ -32,7 +32,7 @@ https://documenter.getpostman.com/view/6684754/2s9YXmWfAG
 
 
 ## Flash to ESP8266 Controller
-- Change Your WIFI SSID and Password in [rest_api_server](smart_washing_machine_esp8266\src\rest_api_server\rest_api_server.cpp)
+- Change Your WIFI SSID and Password in [rest_api_server](smart_washing_machine_esp8266/src/rest_api_server/rest_api_server.cpp)
 
 ## Overview
 
