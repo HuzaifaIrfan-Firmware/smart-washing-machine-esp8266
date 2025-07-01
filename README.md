@@ -5,7 +5,7 @@
   <p><h3 align="center">Firmware for ESP8266 Controller 🚀</h3></p>
 </div>
 
-[Hardware Design](https://github.com/HuzaifaIrfan-CAD/smart_washing_machine)
+[Hardware Design](https://github.com/HuzaifaIrfan-IoT/smart_washing_machine)
 &nbsp;&nbsp;•&nbsp;&nbsp;
 [Android App](https://github.com/HuzaifaIrfan-Mobile/smart_washing_machine_app)
 
